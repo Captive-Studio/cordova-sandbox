@@ -1,0 +1,7 @@
+plugins/
+
+.DS_Store
+
+platforms/*
+www/*
+build/
